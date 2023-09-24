@@ -8,7 +8,7 @@ Weclome to the official GitHub account for <u> Plus Plus Games </u>
 We would like to help and support the open-source community. This can range from creating open source projects, to collaborating on others. You can even commit changes to this readme! Ask us questions and we will try to respond. 
 
 
-  <img align="right" src="https://plusplusgames.com/wp-content/uploads/2022/11/logo3big-pwz272o29er32dg7me9hyuy99wx2ejv6nfe9a7eyok-300x300.jpg" />
+  <img align="right" src="https://github.com/PlusPlusGames/CurrentLogo/blob/main/logo.jpg" />
 
 
 
