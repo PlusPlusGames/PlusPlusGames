@@ -1,6 +1,4 @@
-<h1> 
-  <b>
-plusplusgames.com
-  </b>
+<h1>
+Weclome to the official GitHub account for <b> Plus Plus Games </b> 
 </h1>
 
