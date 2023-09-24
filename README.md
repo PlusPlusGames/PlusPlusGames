@@ -13,6 +13,6 @@ We would like to help and support the open-source community. This can range from
 
 
 
-stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=PlusPlusGames&theme=gotham" alt="stats" />
 
